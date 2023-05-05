@@ -1,0 +1,21 @@
+</TD></TR>
+ </TBODY>
+</TABLE>
+
+<TABLE class="TITLE">
+ <TBODY >
+  <TR><TD><A name="property">属性</A></TD></TR>
+ </TBODY>
+</TABLE>
+
+<TABLE class="property">
+ <TBODY>
+  <TR CLASS="property_sel">
+  <TH CLASS="property_1">メディア</TH>
+  <TH CLASS="property_2">撮影日</TH>
+  <TH CLASS="property_3">撮影サイズ</TH>
+  <TH CLASS="property_4">ファイル容量</TH>
+  <TH CLASS="property_5">重要度</TH>
+  </TR>
+  <TR valign="middle" align="center">
+  <TD CLASS="property_td">
